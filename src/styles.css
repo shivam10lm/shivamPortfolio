@@ -25,9 +25,6 @@
 .mr-auto .inner:hover {
   color: #fff;
 }
-h1 {
-  font-weight: bold;
-}
 .heading {
   width: 100%;
   height: 100vh;
@@ -50,6 +47,7 @@ h1 {
 .heading h1 {
   color: #fff;
   font-size: 70px;
+  font-weight: bold;
 }
 .btn-about {
   display: flex;
@@ -103,6 +101,7 @@ h1 {
 }
 .inner-about2 h1 {
   padding: 20px 20px 20px 0;
+  font-weight: bold;
 }
 .brdr {
   border-bottom: 5px solid #f55c47;
@@ -153,6 +152,7 @@ h1 {
 }
 .skill h1 {
   font-size: 50px;
+  font-weight: bold;
 }
 .skill span {
   border-bottom: 5px solid #f55c47;
@@ -236,6 +236,7 @@ h1 {
 .projects h1 {
   font-size: 50px;
   margin-bottom: 20px;
+  font-weight: bold;
 }
 .exp {
   display: flex;
@@ -254,6 +255,7 @@ h1 {
   margin: 20px;
   margin-left: 70px;
   font-size: 50px;
+  font-weight: bold;
 }
 .exp-img span {
   border-bottom: 5px solid #f55c47;
@@ -309,6 +311,7 @@ h1 {
 
 .main-c h1 {
   font-size: 50px;
+  font-weight: bold;
 }
 .contact {
   display: flex;
@@ -339,8 +342,8 @@ h3 {
   font-weight: 600;
   font-size: 25px;
 }
-.icon-main {
-  font-size: 3.5rem;
+.contact-main-inner .ico {
+  font-size: 3rem;
   color: #f55c47;
   border: 1px solid #fcecdd;
   padding: 10px;
@@ -373,13 +376,14 @@ h3 {
   font-size: 14px;
   margin-top: 50px;
 }
-.footer-left:hover {
-  color: #fff;
-}
+
 .footer-left a {
   font-size: 15px;
   text-decoration: none;
   padding: 20px;
+  color: #fff;
+}
+.footer-left a:hover {
   color: #fff;
 }
 .footer-center {
@@ -426,9 +430,6 @@ h3 {
 }
 .lin:hover {
   color: #0e76a8;
-}
-h1 {
-  font-weight: bold;
 }
 
 @media only screen and (max-width: 650px) {

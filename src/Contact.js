@@ -13,21 +13,21 @@ const Contact = () => {
         <div className="contact">
           <div className="contact-main">
             <div className="contact-main-inner">
-              <LocationOnIcon className="icon-main" />
+              <LocationOnIcon className="ico" />
               <div className="me">
                 <h4>FIND ME</h4>
                 <h3>44, Ashoka Police Line, 110021, New Delhi.</h3>
               </div>
             </div>
             <div className="contact-main-inner">
-              <MailIcon className="icon-main" />
+              <MailIcon className="ico" />
               <div className="me">
                 <h4>SAY HI</h4>
                 <h3>shivamgpt34@gmail.com</h3>
               </div>
             </div>
             <div className="contact-main-inner">
-              <CallIcon className="icon-main" />
+              <CallIcon className="ico" />
               <div className="me">
                 <h4>CALL ME</h4>
                 <h3>+91 - 8130054164</h3>
