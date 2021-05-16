@@ -4,7 +4,7 @@ import Animated from "./Animated";
 
 const Skill = () => {
   return (
-    <div className="skill">
+    <div className="skill" id="skill">
       <span></span>
       <h1>My Skills</h1>
       <Carousel controls={false}>

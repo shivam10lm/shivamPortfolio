@@ -23,7 +23,7 @@ const NavBar = () => {
             <Nav.Link href="#about" className="inner">
               About
             </Nav.Link>
-            <Nav.Link href="#skills" className="inner">
+            <Nav.Link href="#skill" className="inner">
               Skills
             </Nav.Link>
             <Nav.Link href="#project" className="inner">
