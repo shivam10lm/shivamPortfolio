@@ -21,10 +21,13 @@ const About = () => {
           working his way up this ladder with each passing hour in parallel with
           the Electronics discipline I’m enrolled in.
         </span>
-        <button>
+        <a
+          href="https://shivam10lm.github.io/myportfolio/Portfolio/index.html"
+          target="_blank"
+        >
           {" "}
           Read more <ArrowForwardIcon className="forward" />
-        </button>
+        </a>
       </div>
     </div>
   );
