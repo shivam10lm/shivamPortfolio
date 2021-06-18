@@ -18,9 +18,7 @@ const Experience = () => {
           <h2>2021 </h2>
           <div className="con">
             <h2>Junior Developer Intern</h2>
-            <p>
-              Worked as an intern in the firm Allied Web Designs And Software.
-            </p>
+            <p>Working as an intern in the firm Rubodex.</p>
           </div>
         </div>
         <div className="exp-side-inner">
