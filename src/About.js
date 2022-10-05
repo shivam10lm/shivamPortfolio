@@ -11,15 +11,13 @@ const About = () => {
         <span className="brdr"></span>
         <h1>About me</h1>
         <p>
-          Hi, I’m a student currently pursuing Engineering in Electronics &
-          Communication Engineering, but my love for the advancing technologies
-          has brought me in the arena of Computer Science.
+          Hi, I’m a student currently pursuing a degree in Master of Engineering
+          in Electrical & Computer Engineering from University of Calgary.
         </p>
         <span className="para">
           I’m a determined Data Science enthusiast, Web Developer, specifically
           Front-end web development and a compact competitive coder who’s
-          working his way up this ladder with each passing hour in parallel with
-          the Electronics discipline I’m enrolled in.
+          working his way up this ladder with each passing hour.
         </span>
         <a
           href="https://shivam10lm.github.io/myportfolio/Portfolio/index.html"

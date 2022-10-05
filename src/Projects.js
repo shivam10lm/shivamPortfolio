@@ -27,7 +27,7 @@ const Projects = () => {
         <Card
           img="https://images.pexels.com/photos/5702341/pexels-photo-5702341.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
           title="Youtube Clone"
-          text="A shopping cart on an online retailer's site is a piece of software that facilitates the purchase of a product or service."
+          text="Youtube Clone is a web application that works and offers similar functionalities to the Youtube"
           href="https://csb-851kug.netlify.app/"
         />
       </div>
