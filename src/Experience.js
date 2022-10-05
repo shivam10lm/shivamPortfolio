@@ -17,25 +17,25 @@ const Experience = () => {
         <div className="exp-side-inner">
           <h2>2021 </h2>
           <div className="con">
-            <h2>Junior Developer Intern</h2>
-            <p>Working as an intern in the firm Rubodex.</p>
+            <h2>Project Engineer</h2>
+            <p>Worked as a Project Engineer for the Wipro Limited</p>
           </div>
         </div>
         <div className="exp-side-inner">
-          <h2>2019 </h2>
+          <h2>2020 </h2>
+          <div className="con">
+            <h2>Junior Developer Intern</h2>
+            <p>Worked as an intern in the firm Rubodex</p>
+          </div>
+        </div>
+        <div className="exp-side-inner">
+          <h2>2020</h2>
           <div className="con">
             <h2>Freelance Developer</h2>
             <p>
               Working as a freelance developer since 2019, which helped me to
               gain experience.
             </p>
-          </div>
-        </div>
-        <div className="exp-side-inner">
-          <h2>2020</h2>
-          <div className="con">
-            <h2>Business Development Intern</h2>
-            <p>Worked as an intern in the firm Corpversity.</p>
           </div>
         </div>
       </div>

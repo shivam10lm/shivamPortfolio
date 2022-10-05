@@ -25,10 +25,10 @@ const Projects = () => {
           href="https://shivam10lm.github.io/realworld/html/index.html"
         />
         <Card
-          img="https://images.pexels.com/photos/5632398/pexels-photo-5632398.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-          title="Shopping Cart"
+          img="https://images.pexels.com/photos/5702341/pexels-photo-5702341.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+          title="Youtube Clone"
           text="A shopping cart on an online retailer's site is a piece of software that facilitates the purchase of a product or service."
-          href=""
+          href="https://csb-851kug.netlify.app/"
         />
       </div>
     </div>
