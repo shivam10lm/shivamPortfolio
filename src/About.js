@@ -12,17 +12,14 @@ const About = () => {
         <h1>About me</h1>
         <p>
           Hi, I’m a student currently pursuing a degree in Master of Engineering
-          in Electrical & Computer Engineering from University of Calgary.
+          in Electrical and Computer Engineering from the University of Calgary.
         </p>
         <span className="para">
           I’m a determined Data Science enthusiast, Web Developer, specifically
-          Front-end web development and a compact competitive coder who’s
+          Front-end web development, and a compact competitive coder who’s
           working his way up this ladder with each passing hour.
         </span>
-        <a
-          href="https://shivam10lm.github.io/myportfolio/Portfolio/index.html"
-          target="_blank"
-        >
+        <a href="#exp">
           {" "}
           Read more <ArrowForwardIcon className="forward" />
         </a>
