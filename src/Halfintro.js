@@ -3,8 +3,8 @@ const Halfintro = () => {
   return (
     <div className="half-intro">
       <p>
-        I have been more than 2 years in Web Development industries, and have
-        help several clients to grow their business.
+        I have been more than 2 years in the Web Development industries, and
+        have helped several clients to grow their businesses.
       </p>
     </div>
   );
